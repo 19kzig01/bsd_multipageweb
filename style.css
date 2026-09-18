@@ -1,11 +1,11 @@
 @font-face {
     font-family: "Amatic SC";
-    src: url("/resources/fonts/AmaticSC-Bold.ttf");
+    src: url("https://app.bsd.education/resources/fonts/AmaticSC-Bold.ttf");
 }
 
 @font-face {
     font-family: "Work Sans";
-    src: url("/resources/fonts/WorkSans-Regular.ttf");
+    src: url("https://app.bsd.education/resources/fonts/WorkSans-Regular.ttf");
 }
 
 html {
@@ -77,19 +77,19 @@ div.banner {
 }
 
 #home-banner {
-    background-image: url("/resources/projects/tr-multi-page-website/banner-1.jpg");
+    background-image: url("https://app.bsd.education/resources/projects/tr-multi-page-website/banner-1.jpg");
 }
 
 #about-banner {
-    background-image: url("/resources/projects/create-a-multi-page-website/header2.jpg");
+    background-image: url("https://app.bsd.education/resources/projects/create-a-multi-page-website/header2.jpg");
 }
 
 #services-banner {
-    background-image: url("/resources/projects/tr-multi-page-website/banner-3.jpg");
+    background-image: url("https://app.bsd.education/resources/projects/tr-multi-page-website/banner-3.jpg");
 }
 
 #contact-banner {
-    background-image: url("/resources/projects/create-a-multi-page-website/header4.jpg");
+    background-image: url("https://app.bsd.education/resources/projects/create-a-multi-page-website/header4.jpg");
 }
 
 /* <h1> element on the Home page banner */
